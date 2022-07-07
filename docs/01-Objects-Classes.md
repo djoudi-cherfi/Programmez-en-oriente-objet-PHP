@@ -1,8 +1,6 @@
-# Notes sur les concepts du cours
+# Les objets et les classes
 
-## Les objets et les classes
-
-### En programmation, objet est le nom que l’on donne à l'élément
+## En programmation, objet est le nom que l’on donne à l'élément
 
 - qui se trouve dans une variable ;
 - dans lequel on peut stocker des valeurs ;
@@ -10,7 +8,9 @@
 
 Pour obtenir un objet, il faut demander au langage de le créer et de nous le donner pour qu’on puisse le manipuler. Pour faire ça, on précise au langage le nom de l’élément que l’on veut manipuler, c’est-à-dire la classe.
 
-### Qu’est-ce qu’une classe ?
+---
+
+## Qu’est-ce qu’une classe ?
 
 Une classe est une définition qui contient le nom des propriétés qu’on pourra manipuler ainsi que des méthodes. Les propriétés, ce sont des variables internes à cette définition dans lesquelles on stocke des valeurs. Une classe a aussi des méthodes : il s’agit de fonctions internes à la classe. La classe détermine ce qu'il sera possible de faire avec l'objet.
 
