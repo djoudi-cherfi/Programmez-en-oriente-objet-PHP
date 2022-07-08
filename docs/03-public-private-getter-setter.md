@@ -1,5 +1,7 @@
 # Concevez l'API publique de vos objets
 
+---
+
 ## Définissez le domaine public de vos classes
 
 Toutes les méthodes et les propriétés que vous allez vouloir garder accessibles au niveau de l’objet, que vous souhaitez utiliser en dehors des méthodes, de la classe elle même, doivent être préfixées du mot clé public.
@@ -39,6 +41,8 @@ La propriété $unite n’est alors plus accessible depuis l’extérieur de la 
 Cela peut paraître peu utile sur cet exemple, mais si vous avez beaucoup de
 méthodes ou de propriétés dans votre classe, le développeur saura facilement
 quelles méthodes lui seront utiles.
+
+---
 
 ## Masquez la complexité de vos objets
 
@@ -158,6 +162,8 @@ $towerBridge->setLongueur(286.0);
 
 echo $towerBridge->getLongueur();
 ```
+
+---
 
 ## En résumé
 
